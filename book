@@ -23,7 +23,7 @@ public class book {
     public static void main(String[] args) {
         book b1 = new book();
 
-        b1.title = "arihant";
+        b1.title = "lucent";
         b1.author = "suraj";
         b1.price = 125;
         b1.publisher = "flipkart";
@@ -32,7 +32,7 @@ public class book {
 
         book b2 = new book();
 
-        b2.title = "bhu";
+        b2.title = "ncert";
         b2.author = "raushani";
         b2.price = 200;
         b2.publisher = "meesho";
