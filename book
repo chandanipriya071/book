@@ -1,5 +1,5 @@
 
-public class book    bh  {
+public class book    b  {
 
     String title;
     String author;
