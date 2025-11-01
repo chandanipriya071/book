@@ -1,9 +1,4 @@
 
-
-
-gb
-
-
 public class book {
 
     String title;
