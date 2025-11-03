@@ -1,10 +1,5 @@
 
 
-
-
-v. n
-
-
 public class book {
 
     String title;
