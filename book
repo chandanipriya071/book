@@ -1,11 +1,6 @@
 
 
 
-
-hn
-
-
-
 public class book {
 
     String title;
