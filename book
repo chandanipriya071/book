@@ -1,12 +1,4 @@
 
-
-
-gb jb f
-
-
-
-
-
 public class book {
 
     String title;
