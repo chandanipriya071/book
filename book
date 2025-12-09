@@ -1,11 +1,4 @@
 
-
-
-
-Suraj Kuma
-
-
-
 public class book {
 
     String title;
