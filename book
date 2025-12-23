@@ -1,10 +1,4 @@
 
-
-
-DVD p
-
-
-
 public class book {
 
     String title;
