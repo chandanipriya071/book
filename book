@@ -1,7 +1,4 @@
 
-
-
-SSS 
 public class book {
 
     String title;
