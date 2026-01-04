@@ -1,12 +1,4 @@
 
-
-
-
-dress u
-
-
-
-
 public class book {
 
     String title;
