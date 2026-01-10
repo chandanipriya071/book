@@ -1,9 +1,4 @@
 
-
-
-SF
-
-
 public class book {
 
     String title;
